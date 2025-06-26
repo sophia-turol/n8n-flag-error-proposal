@@ -26,7 +26,7 @@ can be surfaced, triaged, and improved <b>within hours instead of days</b>. This
 ## Current painpoints
 
 <ol>
-<li style="padding-bottom: 6px;">Minor copy issues linger until randomly noticed or a power user opens a forum post. For instance, <a href="https://n8n.io/workflows/2342-handling-appointment-leads-and-follow-up-with-twilio-calcom-and-ai/" target="_blank">this workflow template</a> features some typos and visual impairments, [jump to real issues found](#real-issues-found)</li>
+<li style="padding-bottom: 6px;">Minor copy issues linger until randomly noticed or a power user opens a forum post. For instance, <a href="https://n8n.io/workflows/2342-handling-appointment-leads-and-follow-up-with-twilio-calcom-and-ai/" target="_blank">this workflow template</a> features some typos and visual impairments, [Jump to real issues found](#real-issues-found)</li>
 <li>Docs have a partial fix loop; templates + blog have none—creates an uneven brand experience</li>
 <li>Fragmentation makes it hard to quantify content quality across platforms</li>
 </ol>
